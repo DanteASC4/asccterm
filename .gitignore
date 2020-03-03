@@ -1,0 +1,8 @@
+# Node modules folder
+node_modules/
+
+# Environment vars
+.env
+
+# Database file (was a dev version anyway)
+vault.db
